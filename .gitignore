@@ -1,0 +1,20 @@
+# Checkpoints
+ImageGen/FUDOKI/checkpoints/
+
+# Output
+ImageGen/output_geneval/
+Simulation/ckpts/
+Simulation/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store

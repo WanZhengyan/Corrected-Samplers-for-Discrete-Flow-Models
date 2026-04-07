@@ -1,0 +1,18 @@
+# Requirements for ImageGen experiments
+# Tested with Python 3.10, CUDA 12.4
+
+torch>=2.0.1
+torchvision>=0.15.2
+transformers==4.42.4
+tokenizers==0.19.1
+timm==1.0.12
+xformers>=0.0.20
+omegaconf
+attrdict
+accelerate
+sentencepiece
+einops
+torchdiffeq
+matplotlib
+numpy
+Pillow
