@@ -34,6 +34,15 @@ bash inference_t2i.sh
 
 Model checkpoints are **auto-downloaded** on the first run.
 
+## Acknowledgments
+
+We gratefully acknowledge the following projects for providing code:
+
+- [FUDOKI](https://github.com/fudoki-hku/FUDOKI)
+- [flow_matching](https://github.com/facebookresearch/flow_matching)
+- [DiscreteFastSolver](https://github.com/yuchen-zhu-zyc/DiscreteFastSolver)
+
+
 ## Citation
 
 If this work is helpful to your research, you may cite our paper as follows.
