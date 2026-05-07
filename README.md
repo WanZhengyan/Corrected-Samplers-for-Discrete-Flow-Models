@@ -48,13 +48,11 @@ We gratefully acknowledge the following projects for providing code:
 If this work is helpful to your research, you may cite our paper as follows.
 
 ```bibtex
-@article{wan2026correctedsamplersdiscreteflow,
-      title={Corrected Samplers for Discrete Flow Models}, 
-      author={Zhengyan Wan and Yidong Ouyang and Liyan Xie and Fang Fang and Hongyuan Zha and Guang Cheng},
-      year={2026},
-      eprint={2601.22519},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      url={https://arxiv.org/abs/2601.22519}, 
+@inproceedings{
+wan2026corrected,
+title={Corrected Samplers for Discrete Flow Models},
+author={Wan, Zhengyan and Ouyang, Yidong and and Xie, Liyan and Fang, Fang and Zha, Hongyuan and Cheng, Guang},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026}
 }
 ```
